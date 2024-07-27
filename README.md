@@ -12,7 +12,3 @@ Email: jhems@webnx.in
 
 ## Contributing
 Contributions are not accepted at this time. If you have any feedback or suggestions, please contact the Author using the information above.
-
-
-Thanks,
-with Love - Jhems
