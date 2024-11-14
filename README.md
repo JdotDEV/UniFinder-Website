@@ -1,6 +1,6 @@
 # UniFinder
 
-UniFinder is a software solution developed by Jhems Chaudhari, designed to provide comprehensive functionality for [briefly describe main purpose or features]. This document will guide you through the installation, usage, and contribution processes.
+UniFinder is a software solution developed by Jhems Chaudhari, designed to provide comprehensive functionality. This document will guide you through the installation, usage, and contribution processes.
 
 ## License
 
